@@ -1,5 +1,7 @@
 /* include get_ifi_info1 */
 #include    "../../include/unp.h"
+#include <net/if.h>
+#include "unpifi.h"
 
 struct ifi_info *
 get_ifi_info(int family, int doaliases)

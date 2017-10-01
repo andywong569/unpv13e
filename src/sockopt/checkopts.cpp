@@ -8,7 +8,7 @@
 
 /* include checkopts1 */
 /* *INDENT-OFF* */
-#include	"../../../util/util/unp.h"
+#include	"../../include/unp.h"
 #include	<netinet/tcp.h>		/* for TCP_xxx defines */
 
 

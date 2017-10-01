@@ -1,4 +1,5 @@
 /* include rtt1 */
+#include <unprtt.h>
 #include    "../../include/unp.h"
 
 int		rtt_d_flag = 0;		/* debug flag; can be set by caller */
